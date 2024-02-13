@@ -368,7 +368,7 @@ body {
     transform: translateX(-10%);
 
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 871px) {
     #nav {
         padding: 20px;
         flex-direction: column;
